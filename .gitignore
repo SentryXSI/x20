@@ -1,3 +1,11 @@
+.idea/
+*.iml
+*.log
+*.swp
+*.tmp
+.env
+.vagrant
+tmp/
 composer.phar
 /vendor/
 
